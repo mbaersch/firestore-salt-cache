@@ -1,5 +1,5 @@
 homepage: "https://www.markus-baersch.de"
 documentation: "https://github.com/mbaersch/firestore-salt-cache#readme"
 versions:
-  - sha: xxx
+  - sha: 9bd2a9a708d9652bb87d1b3be406cf833262d5e7
     changeNotes: initial release.
