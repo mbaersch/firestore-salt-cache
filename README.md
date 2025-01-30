@@ -4,7 +4,7 @@
 
 Manage a random salt cache with variable lifespan using Firestore. Creates and updates salt value automatically. Uses Template Data Storage to reduce Firestore requests.
 
-![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/firestore-salt-cache) ![License](https://img.shields.io/github/license/mbaersch/firestore-salt-cache)
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/firestore-salt-cache) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/firestore-salt-cache) ![License](https://img.shields.io/github/license/mbaersch/firestore-salt-cache)
 
 **Note**: Create a native Firestore database first and add an empty document for this template. This document will contain the random value and its timestamp.  
 
